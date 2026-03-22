@@ -1,4 +1,4 @@
-# Sales-Performance-Dashboard-Power-BI-
+# Sales-Performance-Dashboard-Power-BI
 
 <img width="1890" height="1027" alt="Image" src="https://github.com/user-attachments/assets/4d3190be-2ad5-405d-b348-2d1e2b76a693" />
 
