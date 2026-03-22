@@ -91,7 +91,11 @@ Cumulative sales tracking
 
 <img width="1916" height="1025" alt="Image" src="https://github.com/user-attachments/assets/206afa4d-a903-49e1-88cd-aaf12b9dd3ee" />
 
-Time Analysis
+
+# Time Analysis
+
+<img width="1911" height="1020" alt="Image" src="https://github.com/user-attachments/assets/73835b1e-75d2-41fd-bfb6-fec839df4821" />
+
 
 ## Recommendations
 
