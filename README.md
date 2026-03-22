@@ -1,5 +1,7 @@
 # Sales-Performance-Dashboard-Power-BI-
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/406c4080-fa06-4387-99e5-0ac0b3b1fe3f" />
+
 # Project Overview
 
 This project analyzes retail sales performance using the Superstore dataset. The goal is to uncover insights into revenue trends, profitability, and regional performance to support data-driven decision-making.
@@ -81,6 +83,9 @@ Cumulative sales tracking
 ## 📸 Dashboard Preview
 
 Executive Overview
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/406c4080-fa06-4387-99e5-0ac0b3b1fe3f" />
+
 
 Profitability Analysis
 
